@@ -1,9 +1,5 @@
 ##  👋 Hey, I'm Dharmesh Makvana!
----
 **Mechanical Engineer | AI & Robotics Enthusiast | Open-Source Contributor**  
-
-🤖  About Me
-
 
 ---
 
@@ -12,6 +8,7 @@
   GPA: 7.00 
 - **B.E Mechanical Engineering** — * LD Collage of Engineering, Gujrat, India* (Sep 2021)  
   CGPA: 8.13
+  
 ---
 
 ## 💼 Experience
@@ -35,8 +32,6 @@
 *Karachi, Pakistan | Jul 2023 – Mar 2024*
 - Built a **Django-based Arabic speech recognition** system for a KSA client.  
 - Worked on **BLDC motor control** and portable environmental monitoring devices.  
-
----
 
 ---
 
