@@ -13,42 +13,31 @@
 
 ## 💼 Experience
 
-### **Design Engineer** — Trelleborg Marine Systems India Pvt Ltd
-*Dubai Maritime City, UAE | Jul 2024 – Present*
-- Reverse-engineered the **ViewPro A40TR gimbal camera** and implemented Python control for movement & zoom.  
-- Developed **Yaw/Pitch control** scripts in Python for gimbal automation.  
-- Researched UAV detection systems using **Python, OpenCV, YOLO** for anti-drone applications.  
-- Conducted UAV flight training & simulation for operational readiness.  
-- Integrated **Orange Cube, Here3 GPS, Herelink** with Holybro X500 UAV in Mission Planner.  
-- Developed Python-based wind plotting tool for flight planning.  
+### **Mechanical Apprentice Drafter** — Trelleborg Marine Systems India Pvt Ltd
+*Ahmedabad, India| Apr 2022 – Nov 2022*
 
-### **Technical Lead** — Smart City Lab, NCAI, NEDUET  
-*Karachi, Pakistan | Apr 2024 – Jun 2024*
-- Led **ADAS** projects for in-cabin & out-cabin monitoring.  
-- Developed **real-time weapon detection** systems with cloud alerts.  
-- Managed **Cattle Weight Detection** project using ML.  
-
-### **Research Associate** — Smart City Lab, NCAI, NEDUET  
-*Karachi, Pakistan | Jul 2023 – Mar 2024*
-- Built a **Django-based Arabic speech recognition** system for a KSA client.  
-- Worked on **BLDC motor control** and portable environmental monitoring devices.  
-
+- Assist in preparing 2D drawings and 3D models of mechanical parts, assemblies, and systems using CAD software (AutoCAD, SolidWorks, or similar).
+- Interpret sketches, layouts, and engineering specifications to produce accurate drawings.
+- Update and revise existing designs and technical documentation as required.
+- Ensure that drafting work complies with company standards, tolerances, and industry codes.
+- Collaborate with engineers, designers, and fabrication teams to resolve design challenges.
+- Support the preparation of bills of materials (BOMs) and drawing packages for production.
+- Learn and apply geometric dimensioning and tolerancing (GD&T) principles.
+- Maintain organized project files and drawing databases.
+  
 ---
 
 ## 💡 Skills
-**Programming:** Python, C++, Dart, MATLAB, JavaScript, Ladder Logic  
-**Embedded Systems:** Arduino, Raspberry Pi, Jetson Nano, ESP32  
-**Software:** MATLAB, Simulink, LabVIEW, Proteus, VS Code, Android SDK  
-**PLCs:** Siemens S7, TIA Portal, WinCC, RSLogix  
-**Tools:** Packet Tracer, WireShark, AutoCAD, KiCad, TinkerCAD  
-**Operating Systems:** Windows, Ubuntu, Kali Linux, ROS, Raspbian OS  
+**Programming:** C, Python, C++, MATLAB, JavaScript,   
+**Embedded Systems:** Arduino, Raspberry Pi, ESP32  
+**Software:** MATLAB, Simulink, VS Code, AutoCAD, SolidWorks 
+**Operating Systems:** Windows, Ubuntu, ROS, Raspbian OS  
 
 ---
 
 ## 📜 Certifications
-- **Artificial Intelligence** — PIAIC  
-- **Ethical Hacking Essentials** — Coursera  
-- **Google Cybersecurity Essentials** — Coursera  
+- **SOLIDWORKS Associate** — Dassault Systèmes  
+- **Autodesk AutoCAD User Certification** — Autodesk  
 
 ---
 
