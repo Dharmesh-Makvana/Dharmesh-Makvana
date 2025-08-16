@@ -35,6 +35,14 @@
 
 ---
 
+## 🗣️ Languages
+- English
+- German
+- Gujrati
+- Hindi
+
+---
+
 ## 📜 Certifications
 - **SOLIDWORKS Associate** - Dassault Systèmes  
 - **Autodesk AutoCAD User Certification** - Autodesk  
