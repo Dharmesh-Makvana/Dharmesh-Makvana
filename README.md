@@ -29,8 +29,8 @@
 
 ## 💡 Skills
 - **Programming:** C, Python, C++, HTML, CSS, JavaScript   
-- **Embedded Systems:** Arduino, Raspberry Pi, ESP32    
-- **Software:** MATLAB, Simulink, VS Code, AutoCAD, SolidWorks       
+- **Embedded Systems:** Arduino, Raspberry Pi, STM32, ESP32    
+- **Software:** MATLAB, Simulink, VS Code, AutoCAD, SolidWorks, Altium Designer     
 - **Operating Systems:** Windows, Ubuntu, ROS, Raspbian OS    
 
 ---
@@ -43,10 +43,23 @@
 
 ---
 
+## ⚡ Digital Fabrication & Prototyping Tools I Work With
+- **3D Printing** (Filament-based)
+- **Resin Printing** (Liquid resin, UV cured)
+- **CNC Milling**
+- **CNC Turning / Lathe**
+- **PCB Milling**
+- **Laser Cutting / Engraving**
+- **Casting (Resin, Silicone, Metal)**
+-  **Sheet Metal Bending / Forming**
+- **G-code / CAM Software** – digital instructions for CNC & 3D printers
+
+---
+
 ## 📜 Certifications
 - **SOLIDWORKS Associate** - Dassault Systèmes  
-- **Autodesk AutoCAD User Certification** - Autodesk  
-
+- **Autodesk AutoCAD User Certification** - Autodesk
+  
 ---
 
 ## 🏆 Honors & awards
