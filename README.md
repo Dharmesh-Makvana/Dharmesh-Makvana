@@ -14,7 +14,7 @@
 ## 💼 Experience
 
 ### **Mechanical Apprentice Drafter** — Trelleborg Marine Systems India Pvt Ltd
-*Ahmedabad, India| Apr 2022 – Nov 2022*
+*Ahmedabad, India | Apr 2022 – Nov 2022*
 
 - Assist in preparing 2D drawings and 3D models of mechanical parts, assemblies, and systems using CAD software (AutoCAD, SolidWorks, or similar).
 - Interpret sketches, layouts, and engineering specifications to produce accurate drawings.
