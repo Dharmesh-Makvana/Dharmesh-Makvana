@@ -28,11 +28,10 @@
 ---
 
 ## 💡 Skills
-**Programming:** C, Python, C++, MATLAB, JavaScript   
-**Embedded Systems:** Arduino, Raspberry Pi, ESP32  
-**Software:** MATLAB, Simulink, VS Code, AutoCAD, SolidWorks 
-
-**Operating Systems:** Windows, Ubuntu, ROS, Raspbian OS  
+**Programming:** C, Python, C++, MATLAB, JavaScript  
+**Embedded Systems:** Arduino, Raspberry Pi, ESP32 
+**Software:** MATLAB, Simulink, VS Code, AutoCAD, SolidWorks
+**Operating Systems:** Windows, Ubuntu, ROS, Raspbian OS 
 
 ---
 
