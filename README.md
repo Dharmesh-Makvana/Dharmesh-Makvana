@@ -13,7 +13,7 @@
 
 ## 💼 Experience
 
-### **UAV Payload & Avionics Engineer** — II Solutions FZE  
+### **Design Engineer** — Trelleborg Marine Systems India Pvt Ltd
 *Dubai Maritime City, UAE | Jul 2024 – Present*
 - Reverse-engineered the **ViewPro A40TR gimbal camera** and implemented Python control for movement & zoom.  
 - Developed **Yaw/Pitch control** scripts in Python for gimbal automation.  
