@@ -4,7 +4,7 @@
 ---
 
 ## 🎓 Education
-- **Phd in Mechatronics, Robotics, and Automation Engineering (Drop-Out)** - *IIT Gandhinagar, Gujrat, India* (July 2024 - Feb 2025 )  
+- **PhD in Mechatronics, Robotics, and Automation Engineering (Drop-Out)** - *IIT Gandhinagar, Gujrat, India* (July 2024 - Feb 2025 )  
   GPA: 7.00 
 - **B.E Mechanical Engineering** - *LD Collage of Engineering, Gujrat, India* (Sep 2017 - Sep 2021)  
   CGPA: 8.13
