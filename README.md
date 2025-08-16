@@ -44,6 +44,8 @@
 ## 🏆 Honors & awards
 - Silver Award in Maker Fest 2025
 
+---
+
 ## 🎮 Fun Fact
 - When I’m not messing with robots, you’ll catch me **watching anime**, **exploring new places**, **hanging out with friends**, or **trying out different dishes**
 
