@@ -38,8 +38,8 @@
 ## 🗣️ Languages
 - English
 - German
-- Gujrati
 - Hindi
+- Gujrati
 
 ---
 
