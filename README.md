@@ -41,13 +41,6 @@
 
 ---
 
-## 📞 Contact Information
-- **Location:** Gujarat, India  
-- **Email:** edgeroboticsstudio@gmail.com  
-- **LinkedIn:** [linkedin.com/in/Dharmesh Makvana](https://linkedin.com/in/dharmesh-makvana)  
-
----
-
 ## 🎮 Fun Fact
 When I’m not messing with robots, you’ll catch me **watching anime**, **exploring new places**, **hanging out with friends**, or **trying out different dishes**
 
