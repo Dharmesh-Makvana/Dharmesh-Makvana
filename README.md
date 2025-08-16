@@ -4,16 +4,16 @@
 ---
 
 ## 🎓 Education
-- **Phd in Mechatronics, Robotics, and Automation Engineering (Drop-Out)** — *IIT Gandhinagar, Gujrat, India* (July 2024 - Feb 2025 )  
+- **Phd in Mechatronics, Robotics, and Automation Engineering (Drop-Out)** - *IIT Gandhinagar, Gujrat, India* (July 2024 - Feb 2025 )  
   GPA: 7.00 
-- **B.E Mechanical Engineering** — *LD Collage of Engineering, Gujrat, India* (Sep 2017 - Sep 2021)  
+- **B.E Mechanical Engineering** - *LD Collage of Engineering, Gujrat, India* (Sep 2017 - Sep 2021)  
   CGPA: 8.13
   
 ---
 
 ## 💼 Experience
 
-### **Mechanical Apprentice Drafter** — Trelleborg Marine Systems India Pvt Ltd
+### **Mechanical Apprentice Drafter** - Trelleborg Marine Systems India Pvt Ltd
 *Ahmedabad, India | Apr 2022 – Nov 2022*
 
 - Assist in preparing 2D drawings and 3D models of mechanical parts, assemblies, and systems using CAD software (AutoCAD, SolidWorks, or similar).
@@ -36,8 +36,8 @@
 ---
 
 ## 📜 Certifications
-- **SOLIDWORKS Associate** — Dassault Systèmes  
-- **Autodesk AutoCAD User Certification** — Autodesk  
+- **SOLIDWORKS Associate** - Dassault Systèmes  
+- **Autodesk AutoCAD User Certification** - Autodesk  
 
 ---
 
