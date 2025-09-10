@@ -1,5 +1,5 @@
 ##  👋 Hey, I'm Dharmesh Makvana !
-**Mechanical Engineer | AI & Robotics Enthusiast | Open-Source Contributor**  
+**Mechanical Engineer | Robotics Freelancer| Open-Source Contributor**  
 
 ---
 
